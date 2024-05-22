@@ -12,4 +12,4 @@ In der Arduino-IDE öffnen wir nun aus dem Verzeichnis "esp32-cam-webserver-mast
 
 Das war es schon. Da es sich nur um wenige Zeilen handelt, lohnt es sich für mich nicht, zu forken. Mein Dankeschön an easytarget und tzapu.
 
-Infos zur Hard- und Softwareinstallation gibt es auf der Seite von easytarget: https://github.com/easytarget/esp32-cam-webserver
+Infos zur Hard- und Softwareinstallation sowie Bedienung gibt es auf der Seite von easytarget: https://github.com/easytarget/esp32-cam-webserver
